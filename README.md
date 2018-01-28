@@ -1,6 +1,7 @@
 # VizIoT-Team
 Team management parent repo for the VizIoT project... mainly for issue tracking.
-Project board: https://waffle.io/BeanRider/VizIoT-Team
+
+**Project board**: https://waffle.io/BeanRider/VizIoT-Team
 
 ## Backend:
 
